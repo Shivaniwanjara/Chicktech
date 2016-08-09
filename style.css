@@ -1,0 +1,43 @@
+.bartha
+{
+	background-color:red;
+	color: white;
+	
+	border-style: solid;
+	border-color: green;
+	border-radius: 20px;
+	border-width: 10px;
+	
+	text-align: center;
+	font-size: 50px;
+	
+	font-family:sans-serif;
+	
+	padding: 20px;
+	margin: 10px;
+	
+}
+
+.bartha:hover
+{
+	color: blue;
+	font-size: 40px;
+	
+}
+
+#cats
+{
+	background-color:white;
+	color: red;
+}
+
+#martha
+{
+	background-color: green;
+	color:white;
+}
+
+#beethoven
+{
+	background-color:purple;
+}
